@@ -1,0 +1,6 @@
+﻿  Game.cpp
+c:\users\michał\source\repos\projekt-gra\projekt-gra\game.cpp(123): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\michał\source\repos\projekt-gra\projekt-gra\game.cpp(128): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\michał\source\repos\projekt-gra\projekt-gra\game.cpp(214): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\michał\source\repos\projekt-gra\projekt-gra\game.cpp(1518): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  Projekt-GRA.vcxproj -> C:\Users\Michał\source\repos\Projekt-GRA\x64\Debug\Projekt-GRA.exe
